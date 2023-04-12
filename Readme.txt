@@ -19,10 +19,10 @@ Key Controls :
 
     Escape         - Exit
 
-    Cursor Up      - Move Plane Forward
-    Cursor Down    - Move Plane Backward
-    Cursor Left    - Strafe Plane Left
-    Cursor Right   - Strafe Plane Right
+    W      - Move Plane Forward
+    S   - Move Plane Backward
+  A    - Strafe Plane Left
+   D   - Strafe Plane Right
     
 Mouse Controls :
     
